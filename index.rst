@@ -29,7 +29,7 @@ Para obtener más información sobre este proyecto, como proyectos relacionados 
 Esperamos que este software ayude a incluir la planificación en más proyectos de Robótica, ofreciendo un software simple y potente para
 generar comportamientos inteligentes para robots.
 
-¡¡Queremos invitarte a contribuir a este `proyecto de código abierto en GitHub <https://github.com/IntelligentRoboticsLabs/ros2_planning_system>`_ !!
+¡¡Queremos invitarte a contribuir a este `proyecto de código abierto en GitHub <https://github.com/IntelligentRoboticsLabs/ros2_planning_system>`_ !!!
 
 .. toctree::
    :hidden:
