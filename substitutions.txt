@@ -7,7 +7,7 @@
 
 .. _project repo: https://github.com/IntelligentRoboticsLabs/ros2_planning_system
 
-.. _documentation repo: https://github.com/PlanSys2/PlanSys2.github.io/doc
+.. _documentation repo: https://github.com/ROS-Spanish-Users-Group/PlanSys2.github.io/doc
 
 .. _documentation site: https://github.com/PlanSys2/PlanSys2.github.io
 
