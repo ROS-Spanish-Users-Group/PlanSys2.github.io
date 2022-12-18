@@ -1,4 +1,4 @@
-[![Sync](https://github.com/ROS-Spanish-Users-Group/PlanSys2.github.io/actions/workflows/sync.yml/badge.svg)](https://github.com/ROS-Spanish-Users-Group/PlanSys2.github.io/actions/workflows/sync.yml)
+[![Sync English Version](https://github.com/ROS-Spanish-Users-Group/PlanSys2.github.io/actions/workflows/sync.yml/badge.svg)](https://github.com/ROS-Spanish-Users-Group/PlanSys2.github.io/actions/workflows/sync.yml)
 
 # plansys2.github.io
 https://github.com/ROS-Spanish-Users-Group/plansys2.github.io
