@@ -92,7 +92,7 @@ Clone in your workspace and build the |PN| `examples <https://github.com/Intelli
 
       run
 
-In the PlanSys2 terminal you'll be able to see the plan. In both terminal, you'll see the current actions executed and its level of completion. As 
+In the PlanSys2 terminal you will be able to see the plan. In both terminal, you'll see the current actions executed and its level of completion. As 
 soon as the plan execution finished, the terminal will be available again. 
 
 2- Package structure
